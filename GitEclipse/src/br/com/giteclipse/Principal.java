@@ -8,6 +8,7 @@ public class Principal {
 		//mais um test de pull alterado do git
 		//mais um test de push alterado do eclipse
 		System.out.println("Estou na fases");
+		//kfpdojhnfs
 	}
 
 }
