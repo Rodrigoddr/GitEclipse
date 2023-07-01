@@ -9,6 +9,10 @@ public class Principal {
 		//mais um test de push alterado do eclipse
 		System.out.println("Estou na fases");
 		//kfpdojhnfs
+		
+		System.out.println("RITgf");
+		
+		///smfçkfdsnmalnTEntar
 	}
 
 }
